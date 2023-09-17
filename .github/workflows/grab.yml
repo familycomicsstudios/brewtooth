@@ -12,10 +12,14 @@ jobs:
       with:
           token: ${{ secrets.PAT }}
 
-    - name: wget
-      uses: wei/wget@v1
+    - name: html to pdf
+      uses: misaelnieto/web_to_pdf_action@master
       with:
-        args: -O book.html https://homebrewery.naturalcrit.com/print/J7Y1--Z7ZWIY
+        webPageURL: https://homebrewery.naturalcrit.com/print/J7Y1--Z7ZWIY
+        outputFile: ./book.pdf
+        usePuppeteer: true
+        useScreen: true
+        pdfOptions: '{"format": "Letter", "margin": {"top": "10mm", "left": "10mm", "right": "10mm", "bottom": "10mm"}}'
     - name: Commit files
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
