@@ -17,7 +17,7 @@ jobs:
       with:
         webPageURL: https://homebrewery.naturalcrit.com/print/J7Y1--Z7ZWIY
         outputFile: ./book.pdf
-        usePuppeteer: true
+        usePuppeteer: false
         useScreen: true
         pdfOptions: '{"format": "Letter", "margin": {"top": "10mm", "left": "10mm", "right": "10mm", "bottom": "10mm"}}'
     - name: Commit files
