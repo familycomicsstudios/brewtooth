@@ -15,7 +15,7 @@ jobs:
     - name: wget
       uses: wei/wget@v1
       with:
-        args: -O book.html https://homebrewery.naturalcrit.com/share/J7Y1--Z7ZWIY
+        args: -O book.html https://homebrewery.naturalcrit.com/print/J7Y1--Z7ZWIY
     - name: Commit files
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
