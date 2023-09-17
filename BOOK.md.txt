@@ -55,7 +55,9 @@ ___
 
 \page
 # Chapter 1: Homebrew Monsters
-{{monster,frame,wide
+## Dog
+Dogs are small animals usually kept as pets. Dogs are canines, and typically like humans for numerous purposes including food, shelter, and belly rubs.
+{{monster,frame
 ## Dog
 *Small beast, unaligned*
 ___
@@ -73,6 +75,37 @@ ___
 ___
 ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5ft., one target. *Hit* 5 (1d6 + 2) 
 }}
+## Banana
+Bananas are  small animated vegetables, usually holding toothpicks. Bananas can walk at fairly small speeds.
+{{monster,frame
+## Banana
+*Tiny plant, unaligned*
+___
+**Armor Class** :: 10
+**Hit Points**  :: 1
+**Speed**       :: 1 ft.
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|3 (-4)|17 (+4)|9 (+0)|3 (-4)|3 (-4)|6 (-2)|
+___
+**Condition Immunities** :: Poisoned
+**Senses**               :: passive Perception 15
+**Languages**            :: Can understand, but not speak, Common
+**Challenge**            :: 0 (10XP)
+___
+### Actions
+***Poke.*** *Melee Weapon Attack:* +4 to hit, reach 2ft., one target. *Hit* 1 (1)
+}}
+{{descriptive
+##### Sample Banana Encounter
+**DM**: Ahead of you walks a small banana.
+:
+**Barbarian**: I eat him.
+:
+**DM**: Excuse me?
+}}
+\column
 
 
 {{footnote Chapter 1: Homebrew Monsters}}
