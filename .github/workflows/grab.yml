@@ -1,12 +1,6 @@
 
 name: Grab HTML file
 
-on:
-  push:
-    branches: [ main ]
-  pull_request:
-    branches: [ main ]
-
 jobs:
   mirror-website:
     name: mirrors the website
