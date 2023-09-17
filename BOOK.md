@@ -30,8 +30,15 @@ ___
 # Table Of Contents
 
 - ### [{{ Chapter 1: Homebrew Monsters}}{{ 5}}](#p5)
+  - #### [{{ Dog}}{{ 5}}](#p5)
 - ### [{{ Chapter 2: Homebrew Items}}{{ 6}}](#p6)
+- ### [{{ Chapter 3: Homebrew Spells}}{{ 7}}](#p7)
 }}
+
+
+
+
+{{footnote Table of Contents}}
 
 {{pageNumber,auto}}
 
@@ -68,6 +75,8 @@ ___
 }}
 
 
+{{footnote Chapter 1: Homebrew Monsters}}
+
 {{pageNumber,auto}}
 
 \page
@@ -76,9 +85,31 @@ ___
 *Weapon (Sword), Uncommon*
 :
 This large banana the size of a longsword turns hard when it hits a human being. While in use as a weapon, it has the properties of a longsword.
+
+{{footnote Chapter 2: Homebrew Items}}
+
 {{pageNumber,auto}}
 \page
 # Chapter 3: Homebrew Spells
+{{spellList,wide
+##### Cantrips (0 Level)
+##### 1st Level 
+- Cook
+##### 2nd Level 
+##### 3rd Level 
+##### 4th Level 
+##### 5th Level 
+##### 6th Level
+##### 7th Level
+##### 8th Level
+##### 9th Level 
+- Create Plane
+}}
+
+{{footnote Chapter 3: Homebrew Spells}}
+
+{{pageNumber,auto}}
+\page
 #### Cook (Themadpunter)
 *1st-level transmutation*
 
@@ -88,8 +119,31 @@ This large banana the size of a longsword turns hard when it hits a human being.
 **Duration:**     :: Instantaneous
 
 Cast this spell while saying the name of a food that can be created with all materials within 10 ft. The ingredients instantly transform into a finished dish, cooked exactly how specified.
+#### Create Plane (Themadpunter)
+*9th-level transmutation*
+
+**Casting Time:** :: 1 hour
+**Range:**        :: Touch
+**Components:**   :: M, S, V (any magic item worth at least 20000gp)
+**Duration:**     :: Instantaneous
+A new plane is created from nothing. You own this plane, and can choose everything about it, like its name, special rules, and laws of nature. The plane starts out as an empty island, similar to Skyblock, with a portal to the Material Plane or any other of your choice. Material from other planes can be moved to the new plane.
+{{note
+##### Sample Plane: The Great Library
+The Great Library is a Lawful Neutral plane of existence that shares the same rules as the Material Plane, with exceptions:
+1. This plane is protected from damage by destruction. The plane will always remain intact.
+2. The Great Library is filled with a copy (sometimes more) of every book that has ever been in any other library.
+3. Any Intellegence (Knowledge) spell used in this library automatically rolls a 20.
+
+This plane has three portals: One to the Material Plane, one to Mechanus, and one to Sigil, the City of Doors.
+}}
 
 
+
+
+
+{{pageNumber,auto}}
+
+{{footnote Chapter 3: Homebrew Spells}}
 
 
 \page
@@ -97,7 +151,11 @@ Cast this spell while saying the name of a food that can be created with all mat
 
 # Brewtooth
 
-Homebrew collection.
+Brewtooth is a collection of homebrew materials created for the community, by the community. Anyone can create and change homebrew monsters, spells, items, and more!
+:
+##### CONTRIBUTING GUIDELINES
+
+While you contribute, please make sure to update the table of contents, spell list, and other important locations that are affected by your change. Do not change any important items (cover, parts, chapters, others' work). Credit your sources when applicable.
 ___
 
 For use with any fantasy roleplaying ruleset. Play the best game of your life!
@@ -109,5 +167,3 @@ For use with any fantasy roleplaying ruleset. Play the best game of your life!
 
 Homebrewery.Naturalcrit.com
 }}
-
-\page
