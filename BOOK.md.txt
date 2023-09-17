@@ -1,6 +1,6 @@
 {{frontCover}}
 
-{{logo ![](/assets/naturalCritLogoRed.svg)}}
+{{logo ![logo](/assets/naturalCritLogoRed.svg)}}
 
 # Brewtooth
 ## A Collection of Homebrew
