@@ -1,7 +1,0 @@
-- name: Download a file
-  # You may pin to the exact commit or the version.
-  # uses: valitydev/action-download-file@7fb017bf38a45a6d420e5456e95f0b1ef966a20c
-  uses: valitydev/action-download-file@v1.0.6
-  with:
-    # URL to file
-    url: "https://homebrewery.naturalcrit.com/share/J7Y1--Z7ZWIY"
