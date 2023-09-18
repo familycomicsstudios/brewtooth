@@ -1,6 +1,6 @@
 {{frontCover}}
 
-{{logo ![logo](/assets/naturalCritLogoRed.svg)}}
+{{logo ![](/assets/naturalCritLogoRed.svg)}}
 
 # Brewtooth
 ## A Collection of Homebrew
@@ -31,9 +31,18 @@ ___
 
 - ### [{{ Chapter 1: Homebrew Monsters}}{{ 5}}](#p5)
   - #### [{{ Dog}}{{ 5}}](#p5)
-- ### [{{ Chapter 2: Homebrew Items}}{{ 6}}](#p6)
-- ### [{{ Chapter 3: Homebrew Spells}}{{ 7}}](#p7)
+  - #### [{{ Dog}}{{ 5}}](#p5)
+  - #### [{{ Banana}}{{ 5}}](#p5)
+  - #### [{{ Banana}}{{ 5}}](#p5)
+    - [{{ Actions}}{{ 5}}](#p5)
+  - #### [{{ Colossal Cat}}{{ 5}}](#p5)
+  - #### [{{ Colossal Cat}}{{ 5}}](#p5)
+    - [{{ Actions}}{{ 6}}](#p6)
+- ### [{{ Chapter 2: Homebrew Items}}{{ 7}}](#p7)
+- ### [{{ Chapter 3: Homebrew Spells}}{{ 8}}](#p8)
 }}
+
+
 
 
 
@@ -105,7 +114,76 @@ ___
 :
 **DM**: Excuse me?
 }}
-\column
+## Colossal Cat
+***Feline Titan.*** The origin of the giant cat is unknown, but
+most assume they were the pets of titans or gods. A giant
+cat often lays claim to a large stretch of land or entire
+continent and treats everything within as belonging to it.
+Giant cats show favour to those who feed them,
+settlements will often gather large tributes for the giant cats
+which can contain heaps of food, brightly coloured ropes
+and works of art in the cat's likeness. A few settlements
+have tried growing crops of catswort or catnip which giant
+cats seem to love, but it often causes them to become
+careless and accidentally crush the town instead.
+
+***Force of Nature.*** Giant cats are seemingly ageless or at
+least extremely long lived. A giant cat is just a feature of the
+land to most people, like the sea, the wind or the sun.
+Much like regular cats, the giant cat believes things are
+there to be played with, eaten or ignored. Sometimes
+villages will be interacted with, where a giant cat will lower
+itself to be petted or fed. Othertimes entire cities will be
+trampled beneath the cat's tremendous paws as it chases a
+shimmering light or just wishes to paw at the buildings.
+
+{{monster,frame
+## Colossal Cat
+*Gargantuan beast, chaotic neutral*
+___
+**Armor Class** :: 15 (natural armor)
+**Hit Points**  :: 277 (15d20 + 120)
+**Speed**       :: 60ft.
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|23 (+6)|13 (+1)|26 (+8)|4 (-3)|13 (+1)|11 (+0)|
+___
+**Skills** :: Perception +6
+**Damage Immunities** :: bludgeoning, piercing, and slashing from non magical weapons
+**Condition Immunities** :: None
+**Senses**               :: passive Perception 16
+**Languages**            :: --
+**Challenge**            :: 16 (15,000 XP)
+___
+***Keen Smell.*** The cat has advantage on Wisdom
+(Perception) checks that rely on smell.
+:
+***Mighty Pounce.*** As a bonus action the cat leaps
+into the air, when it lands all other creatures on
+the ground within 30 feet of the cat must
+succeed on a DC 19 Strength saving throw or be
+knocked prone.
+:
+***Siege Monster.*** The cat deals double damage to
+objects and structures.
+
+}}
+\page
+{{monster,frame
+### Actions
+***Multiattack.*** The cat makes three attacks: one with
+its bite and two with its claws.
+:
+***Claw.*** Melee Weapon Attack: +11 to hit, reach 15
+ft., one target. Hit: 24 (4d8 + 6) slashing damage.
+:
+Bite. Melee Weapon Attack: +11 to hit, reach 10
+ft., one target. Hit: 32 (4d12 + 6) piercing
+damage.
+
+}}
+
 
 
 {{footnote Chapter 1: Homebrew Monsters}}
