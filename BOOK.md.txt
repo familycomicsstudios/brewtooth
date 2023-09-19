@@ -23,6 +23,7 @@ ___
 {{imageMaskCenter14,--offsetX:0%,--offsetY:0%,--rotation:0
   ![background image](https://i.imgur.com/IsfUnFR.jpg){position:absolute,bottom:0,left:0,height:100%}
 }}
+*Disclaimer: The Brewtooth tean is not responsible for the consequences of playing as a 1 Int custom race, drinking a random potion you find on the ground, or saying yes when the DM asks if you want to use a custom class.*
 
 {{logo ![](/assets/naturalCritLogoRed.svg)}}
 \page
@@ -40,12 +41,11 @@ ___
     - [{{ Actions}}{{ 6}}](#p6)
 - ### [{{ Chapter 2: Homebrew Items}}{{ 7}}](#p7)
 - ### [{{ Chapter 3: Homebrew Spells}}{{ 8}}](#p8)
+- ### [{{ Chapter 4: Homebrew Races}}{{ 10}}](#p10)
+  - #### [{{ Half-Cat}}{{ 10}}](#p10)
+    - [{{ Half-Cat Names}}{{ 10}}](#p10)
+    - [{{ Half-Cat Traits}}{{ 10}}](#p10)
 }}
-
-
-
-
-
 
 {{footnote Table of Contents}}
 
@@ -208,6 +208,7 @@ This large banana the size of a longsword turns hard when it hits a human being.
 - Cook
 ##### 2nd Level 
 ##### 3rd Level 
+- Summon Feline
 ##### 4th Level 
 ##### 5th Level 
 ##### 6th Level
@@ -247,7 +248,25 @@ The Great Library is a Lawful Neutral plane of existence that shares the same ru
 
 This plane has three portals: One to the Material Plane, one to Mechanus, and one to Sigil, the City of Doors.
 }}
+#### Summon Feline
+*3th-level transmutation*
 
+**Casting Time:** :: 1 action
+**Range:**        :: 30 feet.
+**Components:**   :: S, V, M (a cat hair)
+**Duration:**     :: 1 hour
+
+A small feline of any type summons in any empty location within 30 feet of you. The feline is not guaranteed to help you with anything. When the spell ends, the cat disappears.
+\column
+#### Song of Time
+*9th-level song*
+
+**Casting Time:** :: 1 action
+**Range:**        :: N/A
+**Components:**   :: S, V, M (an ocarina)
+**Duration:**     :: Indefinite
+
+The Song of Time is a magic song for an ocarina that causes time to reverse up to three days. You keep all knowledge you have, but lose all the items you have gained since the time reversed to.
 
 
 
@@ -256,6 +275,40 @@ This plane has three portals: One to the Material Plane, one to Mechanus, and on
 
 {{footnote Chapter 3: Homebrew Spells}}
 
+
+\page
+# Chapter 4: Homebrew Races
+## Half-Cat
+Half-cats are a race of humans and felines. Half-cats are usually upright and furry with cat ears, a tail, and whiskers. Half-cats are usually playful, chaotic, and small. Half-cats are adventurous, with most taking up jobs like monster hunters, trackers, and dungeoneers.
+
+Half-cats usually wear some human clothes, usually short. Most prefer lots of ventilation.
+### Half-Cat Names
+Half-cats typically take up names by others - most raised around humans will take human names, while most raised around cats will take cat names.
+:
+***Names.*** Lion, Whiskers, Furball, Luna, Simba, Milo, Pumpkin, Tiger, Honey, Lucy, Nala, Pearl
+### Half-Cat Traits
+Your half-cat character has these traits.
+
+***Ability Score Increase.*** Your Dexterity and Charisma scores each increase by 1.
+
+***Age.*** Half-cats reach adulthood in their late teens and live less than a century.
+
+***Size.*** Half-cats typically are fairly short, from 3 to 4 feet tall. Your size is Small.
+
+***Speed.*** Your base walking speed is 20 feet.
+
+***Feline Senses.*** You have advantage on all Perception checks related to sight, hearing, and smell.
+
+***Feline Intuition.*** You are never surprised. Any time you would be surprised, you instead make an Initiative check with disadvantage and act. You re-make your initiative check during the first normal round.
+
+***Languages.*** You can speak, read, and write Common and Feline. Feline is a language shared by all felines. Most felines can speak and understand the language, but not read or write it. If you are not proficient with Feline, every meow sounds the same. Feline uses body language as speech.
+
+\page
+
+
+{{pageNumber,auto}}
+
+{{footnote Chapter 4: Homebrew Races}}
 
 \page
 {{backCover}}
